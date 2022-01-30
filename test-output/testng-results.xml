@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-27T01:11:37 IST" name="Default suite" finished-at="2022-01-27T01:11:37 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2022-01-27T01:11:37 IST" name="Default test" finished-at="2022-01-27T01:11:37 IST" duration-ms="42">
+      <class name="FirstRstAPI.tst">
+        <test-method signature="printMethod()[pri:2, instance:FirstRstAPI.tst@bef2d72]" started-at="2022-01-27T01:11:37 IST" name="printMethod" finished-at="2022-01-27T01:11:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printMethod -->
+        <test-method signature="showMethod()[pri:97, instance:FirstRstAPI.tst@bef2d72]" started-at="2022-01-27T01:11:37 IST" name="showMethod" finished-at="2022-01-27T01:11:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showMethod -->
+        <test-method signature="amroodMethod()[pri:122, instance:FirstRstAPI.tst@bef2d72]" started-at="2022-01-27T01:11:37 IST" name="amroodMethod" finished-at="2022-01-27T01:11:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amroodMethod -->
+      </class> <!-- FirstRstAPI.tst -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
